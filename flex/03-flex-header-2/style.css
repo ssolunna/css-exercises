@@ -61,9 +61,3 @@ ul {
   gap: 16px;
   align-items: center;
 }
-
-li {
-  flex: 1 1 auto;
-  margin: 0;
-  padding: 0;
-}
